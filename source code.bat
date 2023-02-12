@@ -1,4 +1,4 @@
-Powershell -Command "Invoke-WebRequest 'https://github.com/MadzCoin/MadzCoin-MTMiner/archive/refs/heads/main.zip' -OutFile minerscript.zip"
+Powershell -Command "Invoke-WebRequest 'waiting for merge for new link' -OutFile minerscript.zip"
 
 sleep 1
 
