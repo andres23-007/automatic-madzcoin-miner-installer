@@ -12,6 +12,6 @@ sleep 1
 
 cd MadzCoin-MTMiner-main
 
-sleep 1000
+sleep 1
 
 pip install -r requirements.txt
